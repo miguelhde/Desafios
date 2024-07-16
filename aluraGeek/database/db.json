@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Afrodita de picis",
+      "price": "24,000",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2024/05/1-26.png?resize=324%2C324&ssl=1",
+      "id": "1"
+    },
+    {
+      "name": "Seiya de Pegaso",
+      "price": "1,900",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2024/04/6-25.png?resize=324%2C324&ssl=1",
+      "id": "2"
+    },
+    {
+      "name": "Dohko de Libra",
+      "price": "13,900",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2024/02/2-4.png?fit=1080%2C1080&ssl=1",
+      "id": "3"
+    },
+    {
+      "name": "Shiryu de Dragon",
+      "price": "17,900",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2022/12/1-2.png?resize=324%2C324&ssl=1",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Hades",
+      "price": "5,200",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2022/04/Saint-Seiya-Myth-Cloth-EX-Hades-figura-frikitoys-9.jpg?resize=324%2C324&ssl=1"
+    },
+    {
+      "id": "6",
+      "name": "Nightwing",
+      "price": "2,900",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2022/01/MAFEX-No-175-MAFEX-NIGHTWING-BATMAN-HUSH-Figura-friki-toys.jpg?resize=324%2C324&ssl=1"
+    },
+    {
+      "id": "7",
+      "name": "Joker",
+      "price": "2,700",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2021/09/MAFEX-No142-MAFEX-THE-JOKER-BATMAN-HUSH-Figura.jpg?resize=324%2C324&ssl=1"
+    },
+    {
+      "id": "8",
+      "name": "Batman",
+      "price": "2,900",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2020/11/FIGURE-121178.jpg?resize=324%2C324&ssl=1"
+    },
+    {
+      "id": "9",
+      "name": "One punch man",
+      "price": "1,900",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2021/03/One-Punch-Man-16d-Collectible-ONE-PUNCH-MAN-Vol.2.jpg?resize=324%2C324&ssl=1"
+    },
+    {
+      "id": "10",
+      "name": "Vegeta",
+      "price": "2,700",
+      "image": "https://i0.wp.com/frikiitoys.com/wp-content/uploads/2021/04/IMAGINATION-WORKS-Vegeta-Dragon-Ball-Z.jpg?resize=324%2C324&ssl=1"
+    }
+  ]
+}
